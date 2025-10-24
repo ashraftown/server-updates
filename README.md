@@ -152,5 +152,5 @@ See the LICENSE file for details.
 [stars-url]: https://github.com/ashraftown/server-updates/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ashraftown/server-updates.svg
 [issues-url]: https://github.com/ashraftown/server-updates/issues
-[repo-shield]: https://img.shields.io/badge/repo-active-brightgreen.svg
-[repo-url]: https://github.com/ashraftown/server-updates
+[repo-shield]: https://img.shields.io/github/last-commit/ashraftown/server-updates.svg
+[repo-url]: https://github.com/ashraftown/server-updates/commits/main
