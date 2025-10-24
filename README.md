@@ -2,11 +2,11 @@
 
 <div align="left">
 
-[![Contributors][contributors-shield]][contributors-url]  
-[![Forks][forks-shield]][forks-url]  
-[![Stargazers][stars-shield]][stars-url]  
-[![Issues][issues-shield]][issues-url]   
-[![Repo Status][repo-shield]][repo-url]  
+<span>[![Contributors][contributors-shield]][contributors-url]</span>
+<span>[![Forks][forks-shield]][forks-url]</span>
+<span>[![Stargazers][stars-shield]][stars-url]</span>
+<span>[![Issues][issues-shield]][issues-url]</span>
+<span>[![Repo Status][repo-shield]][repo-url]</span>
 
 </div>
 
