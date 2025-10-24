@@ -1,0 +1,14 @@
+## Logrotate config for server-updates logs (sample)
+/var/log/server-updates.log /var/log/server-updates_verbose.log {
+    weekly
+    rotate 12
+    compress
+    delaycompress
+    missingok
+    notifempty
+    create 0640 root adm
+    sharedscripts
+    postrotate
+        # no-op; add any post-rotation tasks here
+    endscript
+}

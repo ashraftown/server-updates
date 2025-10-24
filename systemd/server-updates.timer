@@ -1,0 +1,10 @@
+[Unit]
+Description=Weekly timer to run server-updates.service
+
+[Timer]
+# Run weekly; adjust OnCalendar as needed (e.g., OnCalendar=daily for daily)
+OnCalendar=weekly
+Persistent=true
+
+[Install]
+WantedBy=timers.target
