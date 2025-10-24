@@ -2,7 +2,7 @@
 
 A small, safe updater script with scheduling examples for automated system updates.
 
-<div align="left">
+<div align="center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -144,13 +144,13 @@ See the LICENSE file for details.
 
 ---
 
-[contributors-shield]: https://img.shields.io/github/contributors/ashraftown/server-updates.svg
+[contributors-shield]: https://img.shields.io/github/contributors/ashraftown/server-updates.svg?style=flat-square
 [contributors-url]: https://github.com/ashraftown/server-updates/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ashraftown/server-updates.svg
+[forks-shield]: https://img.shields.io/github/forks/ashraftown/server-updates.svg?style=flat-square
 [forks-url]: https://github.com/ashraftown/server-updates/network/members
-[stars-shield]: https://img.shields.io/github/stars/ashraftown/server-updates.svg
+[stars-shield]: https://img.shields.io/github/stars/ashraftown/server-updates.svg?style=flat-square
 [stars-url]: https://github.com/ashraftown/server-updates/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ashraftown/server-updates.svg
+[issues-shield]: https://img.shields.io/github/issues/ashraftown/server-updates.svg?style=flat-square
 [issues-url]: https://github.com/ashraftown/server-updates/issues
-[repo-shield]: https://img.shields.io/github/last-commit/ashraftown/server-updates.svg
+[repo-shield]: https://img.shields.io/github/last-commit/ashraftown/server-updates.svg?style=flat-square
 [repo-url]: https://github.com/ashraftown/server-updates/commits/main
