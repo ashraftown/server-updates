@@ -2,11 +2,12 @@
 
 <div align="left">
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
+[![Contributors][contributors-shield]][contributors-url]  
+[![Forks][forks-shield]][forks-url]  
+[![Stargazers][stars-shield]][stars-url]  
+[![Issues][issues-shield]][issues-url]  
+[![License][license-shield]][license-url]  
+[![Repo Status][repo-shield]][repo-url]  
 
 </div>
 
@@ -98,9 +99,15 @@ Next steps (suggested)
 2. Add log rotation for `/var/log/server-updates.log` (e.g., via `/etc/logrotate.d/server-updates`).
 3. Test the script in `--dry-run` mode on a staging server.
 
-[![Contributors](https://img.shields.io/github/contributors/ashraftown/server-updates.svg)](https://github.com/ashraftown/server-updates/graphs/contributors)  
-[![Forks](https://img.shields.io/github/forks/ashraftown/server-updates.svg)](https://github.com/ashraftown/server-updates/network/members)  
-[![Stars](https://img.shields.io/github/stars/ashraftown/server-updates.svg)](https://github.com/ashraftown/server-updates/stargazers)  
-[![Issues](https://img.shields.io/github/issues/ashraftown/server-updates.svg)](https://github.com/ashraftown/server-updates/issues)  
-[![License](https://img.shields.io/github/license/ashraftown/server-updates.svg)](https://github.com/ashraftown/server-updates/blob/main/LICENSE)  
-[![Repo Status](https://img.shields.io/badge/repo-0-lightgrey.svg)](https://github.com/ashraftown/server-updates)
+[contributors-shield]: https://img.shields.io/github/contributors/ashraftown/server-updates.svg
+[contributors-url]: https://github.com/ashraftown/server-updates/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ashraftown/server-updates.svg
+[forks-url]: https://github.com/ashraftown/server-updates/network/members
+[stars-shield]: https://img.shields.io/github/stars/ashraftown/server-updates.svg
+[stars-url]: https://github.com/ashraftown/server-updates/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ashraftown/server-updates.svg
+[issues-url]: https://github.com/ashraftown/server-updates/issues
+[license-shield]: https://img.shields.io/github/license/ashraftown/server-updates.svg
+[license-url]: https://github.com/ashraftown/server-updates/blob/main/LICENSE
+[repo-shield]: https://img.shields.io/badge/repo-0-lightgrey.svg
+[repo-url]: https://github.com/ashraftown/server-updates
