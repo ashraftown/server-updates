@@ -1,10 +1,14 @@
 # server-updates — small updater + scheduling examples
 
+<div align="left">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
+
+</div>
 
 What this repo provides
 - `update-server.sh` — a small, safe updater script with modes: `update-only`, `security`, `full`.
