@@ -97,3 +97,14 @@ Next steps (suggested)
 1. Install `unattended-upgrades` and configure `/etc/apt/apt.conf.d/50unattended-upgrades` if you want automatic security patches.
 2. Add log rotation for `/var/log/server-updates.log` (e.g., via `/etc/logrotate.d/server-updates`).
 3. Test the script in `--dry-run` mode on a staging server.
+
+[contributors-shield]: https://img.shields.io/github/contributors/ashraftown/server-updates.svg
+[contributors-url]: https://github.com/ashraftown/server-updates/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ashraftown/server-updates.svg
+[forks-url]: https://github.com/ashraftown/server-updates/network/members
+[stars-shield]: https://img.shields.io/github/stars/ashraftown/server-updates.svg
+[stars-url]: https://github.com/ashraftown/server-updates/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ashraftown/server-updates.svg
+[issues-url]: https://github.com/ashraftown/server-updates/issues
+[license-shield]: https://img.shields.io/github/license/ashraftown/server-updates.svg
+[license-url]: https://github.com/ashraftown/server-updates/blob/main/LICENSE
