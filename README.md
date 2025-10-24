@@ -2,15 +2,15 @@
 
 A small, safe updater script with scheduling examples for automated system updates.
 
-<div align="left">
+<p align="center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Repo Status][repo-shield]][repo-url]
+[![Last Commit][last-commit-shield]][last-commit-url]
 
-</div>
+</p>
 
 ## What this repo provides
 
@@ -152,5 +152,5 @@ See the LICENSE file for details.
 [stars-url]: https://github.com/ashraftown/server-updates/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ashraftown/server-updates.svg
 [issues-url]: https://github.com/ashraftown/server-updates/issues
-[repo-shield]: https://img.shields.io/github/last-commit/ashraftown/server-updates.svg
-[repo-url]: https://github.com/ashraftown/server-updates/commits/main
+[last-commit-shield]: https://img.shields.io/github/last-commit/ashraftown/server-updates.svg
+[last-commit-url]: https://github.com/ashraftown/server-updates/commits/main
