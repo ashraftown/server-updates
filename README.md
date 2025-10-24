@@ -2,7 +2,7 @@
 
 A small, safe updater script with scheduling examples for automated system updates.
 
-<p align="center">
+<div align="center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -10,7 +10,7 @@ A small, safe updater script with scheduling examples for automated system updat
 [![Issues][issues-shield]][issues-url]
 [![Last Commit][last-commit-shield]][last-commit-url]
 
-</p>
+</div>
 
 ## What this repo provides
 
